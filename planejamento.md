@@ -6,10 +6,10 @@
 
 3. GraphQL
 
-4. Nest (MS)
-5. Nest GraphQL Federated
+4. Nest (MS) com GraphQL
+- [Repo Nest com GraphQL](https://github.com/RaphaelBatagini/catalog-ms)
 
-[Repo Nest com GraphQL]()
+5. GraphQL Federated
 
 6. Phoenix (Elixir as data layer)
 
