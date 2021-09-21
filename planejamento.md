@@ -21,3 +21,4 @@
 - [Diferenças entre GraphQL e REST](https://www.apollographql.com/blog/graphql/basics/graphql-vs-rest/)
 - [@nestjs/graphql](https://github.com/nestjs/graphql)
 - [Construindo server GraphQL com Nest](https://ichi.pro/pt/construindo-um-servidor-graphql-com-nest-js-186891586430674)
+- [Curso de NestJS com GraphQL](https://www.youtube.com/playlist?list=PLDqnSpzNKDvlmRnr_K9PoQBqUSkVU42J1)
